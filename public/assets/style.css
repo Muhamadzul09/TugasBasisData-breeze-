@@ -1,0 +1,18 @@
+.audio-icon-wrapper {
+    width: 10rem;
+    height: 10rem;
+    font-size: 15em;
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.5;
+    mix-blend-mode: difference;
+    transform-origin: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    line-height: 0;
+  }
